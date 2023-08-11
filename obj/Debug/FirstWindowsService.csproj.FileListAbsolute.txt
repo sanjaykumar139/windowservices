@@ -1,0 +1,10 @@
+D:\demo\work\backend\FirstWindowsService\bin\Debug\FirstWindowsService.exe.config
+D:\demo\work\backend\FirstWindowsService\bin\Debug\FirstWindowsService.exe
+D:\demo\work\backend\FirstWindowsService\bin\Debug\FirstWindowsService.pdb
+D:\demo\work\backend\FirstWindowsService\obj\Debug\FirstWindowsService.csproj.AssemblyReference.cache
+D:\demo\work\backend\FirstWindowsService\obj\Debug\FirstWindowsService.csproj.SuggestedBindingRedirects.cache
+D:\demo\work\backend\FirstWindowsService\obj\Debug\FirstWindowsService.ProjectInstaller.resources
+D:\demo\work\backend\FirstWindowsService\obj\Debug\FirstWindowsService.csproj.GenerateResource.cache
+D:\demo\work\backend\FirstWindowsService\obj\Debug\FirstWindowsService.csproj.CoreCompileInputs.cache
+D:\demo\work\backend\FirstWindowsService\obj\Debug\FirstWindowsService.exe
+D:\demo\work\backend\FirstWindowsService\obj\Debug\FirstWindowsService.pdb
